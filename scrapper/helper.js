@@ -1,0 +1,1 @@
+exports.public_path = __dirname;
